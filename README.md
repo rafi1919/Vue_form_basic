@@ -2,6 +2,7 @@
 
 https://vue-form-basic.vercel.app/
 
+basic input uputput form vue for beginners
 Basic form vue.js
 ## Project setup
 ```
